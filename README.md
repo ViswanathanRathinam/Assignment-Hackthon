@@ -4,7 +4,7 @@
 
 ### Overview:
 
-In this assignment, you will be developing a training module for image recognition which uses pre-trained deep learning model and then fine-tune it with the given dataset. Do required pre-processing on the given dataset. Also, you will be developing a web application that integrates that fine-tuned model and recognize the image.
+In this assignment, you will be developing a training module for image recognition which uses pre-trained deep learning model and then fine-tune it with the given dataset. Do required pre-processing on the given dataset. Also, you will be developing a web application that integrates the fine-tuned model and recognize the image uploaded by the user.
 
 ### Requirements:
 
@@ -39,7 +39,7 @@ Dockerize the solution and deploy using docker-compose.
 
 ### Overview:
 
-In this assignment, you will be developing a training module for natural language processing (NLP) which uses pre-trained deep learning model and then fine-tune it with the given dataset. Do required pre-processing on the given dataset. Also, you will be developing a web application that integrates that fine-tuned model and recognize the class of the text.
+In this assignment, you will be developing a training module for text classification which uses pre-trained deep learning model and then fine-tune it with the given dataset. Do required pre-processing on the given dataset. Also, you will be developing a web application that integrates the fine-tuned model and recognize the class of the text provided by the user.
 
 ### Requirements:
 
