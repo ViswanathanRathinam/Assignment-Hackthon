@@ -55,7 +55,7 @@ Users should be able to do the following in the Web App:
 
     * Pre-process the text for the deep learning model.
 
-    * Predict the class of the text using the pre-trained model.
+    * Predict the class of the text using the fine tuned model.
 
     * View the predicted class label and probability.
 
