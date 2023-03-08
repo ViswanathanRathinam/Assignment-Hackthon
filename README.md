@@ -67,7 +67,7 @@ Dockerize the solution and deploy using docker-compose
 
 ### Submission:
 
- * Submit the source code for the web application.
+ * Submit the source code for the training and web application.
  * Submit a brief report explaining your model selection justification.
 
 
