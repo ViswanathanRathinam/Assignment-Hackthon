@@ -1,6 +1,6 @@
 # Assignment 1 (Pick one A or B):
 
-## A: Train a Computer Vision based Deep Learning Model and develop a Web Application to Inference it.
+## A: Train a Computer Vision based Deep Learning Model and Develop a Web Application to Inference it.
 
 ### Overview:
 
@@ -35,7 +35,7 @@ Dockerize the solution and deploy using docker-compose.
  * Submit the source code for the web application.
  * Submit a brief report explaining your model selection justification.
 
-## B: Train a Natural Language Processing based Deep Learning Model and develop a Web Application to Inference it.
+## B: Train a Natural Language Processing based Deep Learning Model and Develop a Web Application to Inference it.
 
 ### Overview:
 
